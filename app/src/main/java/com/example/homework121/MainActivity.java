@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 editTextName.getText() + " на электронный адрес " + editTextEmail.getText());
     }
 
-    public void cleanAll() {
+    public void cleanAll(View view) {
         textView.setText("");
         editTextName.setText("");
         editTextEmail.setText("");
