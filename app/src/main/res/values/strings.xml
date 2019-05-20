@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Homework121</string>
+    <string name="userName">Имя пользователя:</string>
+    <string name="email">Электронная почта:</string>
+    <string name="okBtn">OK</string>
+    <string name="clearBtn">Очистить</string>
 </resources>
