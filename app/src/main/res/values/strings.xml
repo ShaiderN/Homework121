@@ -4,4 +4,5 @@
     <string name="email">Электронная почта:</string>
     <string name="okBtn">OK</string>
     <string name="clearBtn">Очистить</string>
+    <string name="info">Подписка на рассылку успешно оформлена для пользователя %s на электронный адрес %s</string>
 </resources>

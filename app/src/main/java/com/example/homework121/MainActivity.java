@@ -22,8 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void displayMessage(View view) {
-        textView.setText("Подписка на рассылку успешно оформлена для пользователя " +
-                editTextName.getText() + " на электронный адрес " + editTextEmail.getText());
+        textView.setText(getString((R.string.info), editTextName.getText(), editTextEmail.getText()));
     }
 
     public void cleanAll(View view) {
